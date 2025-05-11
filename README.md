@@ -1,4 +1,4 @@
-#... Bienvenido a mi perfil ...#
+##... Bienvenido a mi perfil ...##
 * conta secundária
 * principal: Daygool10
 
