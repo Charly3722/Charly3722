@@ -2,4 +2,4 @@
 * conta secundária
 * principal: Daygool10
 
-  ![](https://tenor.com/pt-BR/view/winx-club-aisha-magic-winx-transformation-fairy-gif-20245526)
+<img src= "https://i.pinimg.com/736x/42/f7/6d/42f76d12cfb8aa2e5e229e30baa277fe.jpg" alt="aisha">
